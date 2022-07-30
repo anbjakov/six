@@ -13,11 +13,11 @@ let sumResult = a + b;
 alert(`${a}+ плюс ${b} = ${sumResult}`);
 
 let multiplicationResult = a*b;
-alert(a+" умножить "+b+" = "+multiplicationResult);
+alert(`${a}+ умножить ${b}+ = ${multiplicationResult}`);
 
 let dividedResult = a/b;
-alert(a+" делить "+b+" = "+multiplicationResult);
+alert(`${a}+ делить ${b} = ${dividedResult}`);
 
 let powerResult = a ** b;
-alert(a+" в степени "+b+" = "+powerResult);
+alert(`${a} в степени  ${b} = ${powerResult}`);
 
