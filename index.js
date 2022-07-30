@@ -10,7 +10,7 @@ let differenceResult = a - b;
 alert(`${a} минус ${b} =  ${differenceResult}`);
 
 let sumResult = a + b;
-alert(`${a}+ плюс b = ${sumResult}`);
+alert(`${a}+ плюс ${b} = ${sumResult}`);
 
 let multiplicationResult = a*b;
 alert(a+" умножить "+b+" = "+multiplicationResult);
