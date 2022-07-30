@@ -21,3 +21,4 @@ alert(`${a}+ делить ${b} = ${dividedResult}`);
 let powerResult = a ** b;
 alert(`${a} в степени  ${b} = ${powerResult}`);
 
+console.log ('new feature')
